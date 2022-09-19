@@ -8,7 +8,7 @@ import com.gargoylesoftware.htmlunit.html.HtmlPage;
 import com.gargoylesoftware.htmlunit.html.HtmlScript;
 import org.w3c.dom.Document;
 import org.xml.sax.SAXException;
-import xml.ListSitemap;
+import old.xml.ListSitemap;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
